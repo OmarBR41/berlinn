@@ -1,0 +1,14 @@
+.container {
+  width: 100vw;
+  min-height: 100vh;
+  padding: 20px 25px;
+  background-color: transparent;
+  z-index: 10;
+}
+
+.title {
+  text-align: center;
+  font-family: 'DancingScript';
+  font-size: 3rem;
+  color: var(--red);
+}
