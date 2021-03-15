@@ -20,14 +20,17 @@ Diseñado en [Figma](https://www.figma.com/file/qGn4oH0FmqJnEAhFpv2PDz/Berlin-Ho
 
 ## Assets
 
-- Color palette: [Coolors](https://coolors.co/e63946-f1faee-a8dadc-457b9d-1d3557)
-- Imágenes: [Pexels](https://www.pexels.com/)
+- Color palette generado por [Coolors](https://coolors.co/e63946-f1faee-a8dadc-457b9d-1d3557)
+- Imágenes descargadas de [Pexels](https://www.pexels.com/)
 
 ### Fonts
 
-- DancingScript
-- Montserrat
+- [DancingScript](https://fonts.google.com/specimen/Dancing+Script?preview.text_type=custom)
+- [Montserrat](https://fonts.google.com/specimen/Montserrat?preview.text_type=custom)
 
 ## Setup
 
-Pueden clonar este repositorio, instalar las dependencias con `npm install` y correr el script principal con `npm run dev`. Esto abrirá el puerto 3000 y podrán ver el proyecto en [localhost:3000](http://localhost:3000)
+- Clonar repositorio
+- Instalar dependencias: `npm install`
+- Correr el script principal: `npm run dev`.
+- Abrir [localhost:3000](http://localhost:3000)
