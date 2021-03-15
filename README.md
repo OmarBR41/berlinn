@@ -2,9 +2,8 @@
 
 Landing page para un hotel en Berlín desarrollada con NextJS
 
-## Diseño
-
-Diseñado en [Figma](https://www.figma.com/file/qGn4oH0FmqJnEAhFpv2PDz/Berlin-Hotel?node-id=0%3A1)
+- Live URL en [Vercel](https://berlinn.vercel.app/)
+- Diseño hecho en [Figma](https://www.figma.com/file/qGn4oH0FmqJnEAhFpv2PDz/Berlin-Hotel?node-id=0%3A1)
 
 ## Herramientas
 
