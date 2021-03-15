@@ -1,0 +1,6 @@
+.label {
+  color: var(--gray);
+  font-weight: 500;
+  font-size: 0.625rem;
+  letter-spacing: 0.1em;
+}
