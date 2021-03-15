@@ -1,0 +1,13 @@
+.input {
+  color: var(--darker-blue);
+  font-size: 0.7rem;
+  font-weight: 600;
+  padding: 0.5rem;
+  border: none;
+}
+
+@media (min-width: 1000px) {
+  .input {
+    font-size: 0.8rem;
+  }
+}
