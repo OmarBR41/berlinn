@@ -1,0 +1,20 @@
+.submit {
+  width: 100%;
+  padding: 0.75rem 0;
+  color: var(--light-blue);
+  background-color: var(--dark-blue);
+  border: none;
+  border-radius: 0 0 1rem 1rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  cursor: pointer;
+}
+
+.submit:hover {
+  background-color: var(--darker-blue);
+}
+
+.submit:focus {
+  outline: none;
+}
