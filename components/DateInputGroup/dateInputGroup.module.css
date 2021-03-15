@@ -1,0 +1,37 @@
+.input {
+  width: fit-content;
+  color: var(--darker-blue);
+  font-size: 0.7rem;
+  font-weight: 600;
+  padding: 0 0.5rem;
+  border: none;
+}
+
+
+.calendar {
+  position: absolute;
+  top: 32px;
+  right: 20px;
+  width: 1rem;
+  height: 1rem;
+  font-size: 1rem;
+  color: var(--dark-blue);
+  transform: translateY(-50%);
+  cursor: pointer;
+}
+
+.calendar:hover,
+.calendar:focus {
+  color: var(--darker-blue);
+}
+
+@media (min-width: 1000px) {
+  .input {
+    font-size: 0.8rem;
+  }
+
+  .calendar {
+    width: 1.25rem;
+    height: 1.25rem;
+  }
+}
